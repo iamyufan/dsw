@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'DSW Assignments'
+copyright = "Yufan Zhang."
+
+theme = "paper"
+
+[params]
+  # color style
+  color = 'light'  
+
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DSW Assignments</title>
+    <link>http://example.org/</link>
+    <description>Recent content on DSW Assignments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Yufan Zhang.</copyright>
+    <lastBuildDate>Wed, 06 Mar 2024 20:00:08 -0500</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 2</title>
+      <link>http://example.org/posts/a2/</link>
+      <pubDate>Wed, 06 Mar 2024 20:00:08 -0500</pubDate>
+      
+      <guid>http://example.org/posts/a2/</guid>
+      <description>Question 4 Part A Enjoy the interactive plot below.</description>
+    </item>
+    
+  </channel>
+</rss>
